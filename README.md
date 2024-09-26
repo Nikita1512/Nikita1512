@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Jadhav</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **c,SQL,HTML,CSS,JS core Java**
+- 🌱 I’m currently learning **C,SQL,HTML,CSS,JS core Java**
 
 <p align="left">
 </p>
